@@ -3,6 +3,12 @@
 ## About
 This is a calculator app that lets users choose their own theme. It has basic arithmetic operations along with the factorial button, percentage, square root and a button to caculate the quadratic number of any number entered. 
 
+## Usage
+- The app is build in React Native and Expo
+- More complex layout with flexbox
+- Built and used custom components
+- Handled complex state in React Native
+
 ## Demo 
 
 <a href="url"><img src="https://github.com/andmina/ThemeChangingCalculator/blob/master/assets/Screen Shot 2021-03-10 at 6.52.10 PM.png" width="200" ></a>
@@ -12,3 +18,7 @@ This is a calculator app that lets users choose their own theme. It has basic ar
 <a href="url"><img src="https://github.com/andmina/ThemeChangingCalculator/blob/master/assets/Screen Shot 2021-03-10 at 6.45.31 PM.png" width="200" ></a>
 <a href="url"><img src="https://github.com/andmina/ThemeChangingCalculator/blob/master/assets/Screen Shot 2021-03-10 at 6.45.10 PM.png" width="200" ></a>
 <a href="url"><img src="https://github.com/andmina/ThemeChangingCalculator/blob/master/assets/Screen Shot 2021-03-10 at 6.44.21 PM.png" width="200" ></a>
+
+## Installation
+
+Make sure to run <code>npm install/yarn install</code> 
